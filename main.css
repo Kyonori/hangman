@@ -1,7 +1,27 @@
 #letter-input {
   display: none;
+  text-align:center;
 }
 
 #word-format {
   font-size: 30px;
+  text-align:center;
+}
+
+#pregame-message {
+  text-align: center;
+}
+
+
+h1, h2 {
+  text-align:center;
+}
+
+body {
+  background-color: black;
+  color:red;
+}
+
+#guess-message {
+  text-align:center;
 }
